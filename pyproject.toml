@@ -11,3 +11,4 @@ dependencies = [
     "streamlit",
     "nest_asyncio"
 ]
+package-mode = false
