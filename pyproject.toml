@@ -11,4 +11,5 @@ dependencies = [
     "streamlit",
     "nest_asyncio"
 ]
+[tool.poetry]
 package-mode = false
